@@ -1,0 +1,2 @@
+# scala.vim
+scala.vim
